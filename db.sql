@@ -13,3 +13,5 @@ fred
 segun 
 izi
 muyi
+lolo
+ella
