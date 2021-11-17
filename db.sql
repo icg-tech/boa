@@ -8,3 +8,8 @@ harrison
 yommy
 tade
 lanre
+john 
+fred
+segun 
+izi
+muyi
