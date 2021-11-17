@@ -3,3 +3,5 @@ simon
 segun billy
 Elvis
 Amander
+david 
+thomad
