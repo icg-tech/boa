@@ -15,3 +15,6 @@ izi
 muyi
 lolo
 ella
+davee
+lora
+and other
